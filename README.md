@@ -48,7 +48,7 @@ Others options for authentication are below :
 2. Push the new change to your personal repository
     - Use an explicit commit message (for example "Customize Hello World message" and not "my commit")
 
-## Making your project a maven and make a jar
+## Making your project a maven project and make a jar
 1. Follow https://www.jetbrains.com/help/idea/convert-a-regular-project-into-a-maven-project.html
     - If you encounter some issues during the procedure, try restarting IntelliJ IDEA.
 2. Generate the jar (as mentioned in the procedure)
